@@ -72,4 +72,7 @@ Once the contract is deployed, you can interact with it. Click on the "MyToken" 
 
 Ashutosh Sharan
 (https://www.linkedin.com/in/ashutosh-sharan-177630249/)
+## License
+
+This MyToken is licensed under the MIT License 
 
